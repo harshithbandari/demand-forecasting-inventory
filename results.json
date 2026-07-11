@@ -1,0 +1,17 @@
+{
+  "skus": 6,
+  "days": 730,
+  "backtest_mape_by_sku": {
+    "SKU-01": 8.8,
+    "SKU-02": 8.0,
+    "SKU-03": 10.0,
+    "SKU-04": 7.9,
+    "SKU-05": 8.6,
+    "SKU-06": 8.9
+  },
+  "avg_mape": 8.7,
+  "forecast_horizon_days": 30,
+  "lead_time_days": 7,
+  "service_level": "95%",
+  "total_reorder_units": 3617
+}

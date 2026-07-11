@@ -1,0 +1,7 @@
+sku,category,avg_daily_demand,demand_std,lead_time_demand,safety_stock,reorder_point,order_up_to_level
+SKU-01,Beverages,126.0,21.8,882.0,95.0,977.0,1858.0
+SKU-02,Snacks,92.9,16.4,650.0,72.0,722.0,1373.0
+SKU-03,Household,66.8,13.4,467.0,59.0,526.0,994.0
+SKU-04,Personal Care,51.7,8.9,362.0,39.0,401.0,763.0
+SKU-05,Frozen,73.8,13.4,517.0,58.0,575.0,1092.0
+SKU-06,Bakery,52.2,11.5,366.0,50.0,416.0,782.0
